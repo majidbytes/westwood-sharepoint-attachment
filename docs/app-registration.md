@@ -2,7 +2,7 @@
 
 Westwood SharePoint Attachment uses a server-side Dataverse plugin to list and download SharePoint files. The plugin requires a Microsoft Entra app registration with permission to read SharePoint files.
 
-Do not use a Westwood Software app registration in a customer environment. The customer should create or provide an app registration in their own Microsoft tenant.
+Create the app registration in the same Microsoft tenant as your Dynamics 365 / Dataverse and SharePoint environment.
 
 ## 1. Create App Registration
 
