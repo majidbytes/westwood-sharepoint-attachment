@@ -44,6 +44,12 @@ wwd_SharePointAttachmentSizeLimitMb = 15
 
 The server-side plugin needs an app registration that can read SharePoint files.
 
+See the full guide:
+
+```text
+docs/app-registration.md
+```
+
 Typical Microsoft Graph application permissions:
 
 - `Sites.Read.All`, or

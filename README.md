@@ -52,6 +52,7 @@ The control relies on native Dataverse SharePoint document locations. It does no
 Detailed instructions:
 
 - [Installation Guide](docs/install.md)
+- [Microsoft Entra App Registration](docs/app-registration.md)
 - [Licensing Guide](docs/licensing.md)
 - [Troubleshooting](docs/troubleshooting.md)
 - [Release Notes](docs/release-notes.md)
