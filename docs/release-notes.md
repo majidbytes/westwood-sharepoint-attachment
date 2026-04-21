@@ -4,6 +4,12 @@
 
 Initial managed solution release.
 
+Demo video:
+
+```text
+https://youtu.be/8ojkE5KLU3s
+```
+
 ### Includes
 
 - PCF control for attaching SharePoint documents to Dynamics 365 Emails.

@@ -13,6 +13,16 @@ Managed solution: SharePointEmailAttachment_1_0_0_2_managed.zip
 
 Download the managed solution from the GitHub **Releases** page.
 
+## Demo Video
+
+Watch Westwood SharePoint Attachment in action:
+
+```text
+https://youtu.be/8ojkE5KLU3s
+```
+
+The video shows the control embedded on the Email form, loading related SharePoint documents, selecting files, and attaching them directly to the Email.
+
 ## What Is Included
 
 - PCF control for Email forms
