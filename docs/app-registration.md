@@ -1,6 +1,6 @@
 # Microsoft Entra App Registration
 
-Westwood SharePoint Attachment uses a server-side Dataverse plugin to list and download SharePoint files. The plugin requires a Microsoft Entra app registration with permission to read SharePoint files.
+Westwood SharePoint Email Attachment uses a server-side Dataverse plugin to list and download SharePoint files. The plugin requires a Microsoft Entra app registration with permission to read SharePoint files.
 
 Create the app registration in the same Microsoft tenant as your Dynamics 365 / Dataverse and SharePoint environment.
 
@@ -13,7 +13,7 @@ Create the app registration in the same Microsoft tenant as your Dynamics 365 / 
 5. Name:
 
 ```text
-Westwood SharePoint Attachment
+Westwood SharePoint Email Attachment
 ```
 
 6. Supported account types:
@@ -54,7 +54,7 @@ wwd_SharePointTenantId
 4. Description:
 
 ```text
-Westwood SharePoint Attachment
+Westwood SharePoint Email Attachment
 ```
 
 5. Expiry:

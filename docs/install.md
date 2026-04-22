@@ -1,6 +1,6 @@
 # Installation Guide
 
-This guide explains how to install and configure Westwood SharePoint Attachment.
+This guide explains how to install and configure Westwood SharePoint Email Attachment.
 
 ## 1. Import the Managed Solution
 
@@ -76,7 +76,7 @@ Normal users do not need access to the licence table or environment variable val
 
 1. Open the target Email form in the model-driven app form designer.
 2. Add or select a text/place-holder column to host the PCF control.
-3. Add the `Westwood SharePoint Attachment` control.
+3. Add the Westwood SharePoint Email Attachment control.
 4. Configure the visible properties.
 
 | Property | Description |

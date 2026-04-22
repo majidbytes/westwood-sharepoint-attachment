@@ -1,6 +1,6 @@
 # Licensing Guide
 
-Westwood SharePoint Attachment is licensed per Microsoft tenant.
+Westwood SharePoint Email Attachment is licensed per Microsoft tenant.
 
 ## Trial
 

@@ -1,6 +1,6 @@
-# Westwood SharePoint Attachment
+# Westwood SharePoint Email Attachment
 
-Westwood SharePoint Attachment is a Dynamics 365 / Dataverse managed solution that lets users browse SharePoint documents related to a Dataverse record and attach selected files directly to an Email.
+Westwood SharePoint Email Attachment is a Dynamics 365 / Dataverse managed solution that lets users browse SharePoint documents related to a Dataverse record and attach selected files directly to an Email.
 
 The solution is designed for model-driven apps where native Dataverse SharePoint integration is already enabled.
 
@@ -15,7 +15,7 @@ Download the managed solution from the GitHub **Releases** page.
 
 ## Demo Video
 
-Watch Westwood SharePoint Attachment in action:
+Watch Westwood SharePoint Email Attachment in action:
 
 ```text
 https://youtu.be/8ojkE5KLU3s
@@ -69,7 +69,7 @@ Detailed instructions:
 
 ## Licensing
 
-Westwood SharePoint Attachment is licensed per Microsoft tenant.
+Westwood SharePoint Email Attachment is licensed per Microsoft tenant.
 
 The licence key is bound to your Microsoft tenant ID. Environment ID and Organisation ID may be captured for support and diagnostics, but paid entitlement is validated at tenant level.
 
@@ -97,4 +97,4 @@ sales@westwoodsoftware.net
 
 ## Commercial Notice
 
-Westwood SharePoint Attachment is commercial software. Do not redistribute the managed solution or licence keys without written permission from Westwood Software.
+Westwood SharePoint Email Attachment is commercial software. Do not redistribute the managed solution or licence keys without written permission from Westwood Software.
